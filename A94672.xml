@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the right honourable, the Parliament of the Common-Wealth of England, Scotland and Ireland. The humble petition of Mary Countess of Sterling, and John Blount her husband, Sir Robert Crooke k ight [sic], and Dame Susan his wife, Henry Alexander, alias Zinzan, and Jacoba his wife, Sackville Glemham, and Peter Glemham (the said Countess dame Susan, Jacoba, Sackvile, and Peter Glemham, being grand-children of Sir Peter Vanlore the elder, deceased; and your petitioners the said Countess, Dame Susan, and Jacoba, being the right Heires of the said Sir Peter, and of Dame Mary Powel his daughter, (late the wife of Sir Edward Powel deceased) (that is to say) daughters and heires of Sir Peter Vanlore the younger (deceased) onely son and heire of the said Sir Peter the elder.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94672</idno>
+            <idno type="STC">Wing T1706C</idno>
+            <idno type="STC">Thomason 669.f.19[31]</idno>
+            <idno type="STC">ESTC R212326</idno>
+            <idno type="EEBO-CITATION">99870958</idno>
+            <idno type="PROQUEST">99870958</idno>
+            <idno type="VID">163369</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94672)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163369)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f19[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the right honourable, the Parliament of the Common-Wealth of England, Scotland and Ireland. The humble petition of Mary Countess of Sterling, and John Blount her husband, Sir Robert Crooke k ight [sic], and Dame Susan his wife, Henry Alexander, alias Zinzan, and Jacoba his wife, Sackville Glemham, and Peter Glemham (the said Countess dame Susan, Jacoba, Sackvile, and Peter Glemham, being grand-children of Sir Peter Vanlore the elder, deceased; and your petitioners the said Countess, Dame Susan, and Jacoba, being the right Heires of the said Sir Peter, and of Dame Mary Powel his daughter, (late the wife of Sir Edward Powel deceased) (that is to say) daughters and heires of Sir Peter Vanlore the younger (deceased) onely son and heire of the said Sir Peter the elder.</title>
+                  <author>Stirling, Mary Vanlore Alexander, Countess of, d. ca. 1660.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>"[C]hallenging their wills, by which, through the alleged fraud of Thomas and Anne Levingston, they have been disinherited."--Thomason Catalogue.</note>
+                  <note>Annotation on Thomason copy: "Nouember 1654".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wills --  Great Britain --  Early works to 1800.</term>
+               <term>Fraud --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:163369:1" rendition="simple:additions"/>
+            <head>To the Right Honourable, the Parliament of the Common-Wealth of England, Scotland, and Ireland.</head>
+            <argument>
+               <p>
+                  <hi>The humble Petition of</hi> Mary <hi>Counteſs of</hi> Sterling, <hi>and</hi> John Blount <hi>her husband,</hi> Sir Robert Croke K<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight, <hi>and Dame</hi> Suſan <hi>his wife,</hi> Henry Alexander, <hi>alias</hi> Zinzan, <hi>and</hi> Jacoba <hi>his wife,</hi> Sackvile Glemham, <hi>and</hi> Peter Glemham <hi>(the ſaid Counteſs Dame</hi> Suſan, Jacoba, Sackvile, <hi>and</hi> Peter Glemham, <hi>being Grand-children of</hi> Sir Peter Vanlore <hi>the elder, deceaſed; and your Petitioners the ſaid Coun<g ref="char:EOLhyphen"/>teſs, Dame</hi> Suſan, <hi>and</hi> Jacoba, <hi>being alſo the right Heires of the ſaid</hi> Sir Peter, <hi>and of Dame</hi> Mary Powel <hi>his daughter, (late the wife of</hi> Sir Edward Powel <hi>deceaſed) (that is to ſay) Daughters and Heires of</hi> Sir Peter Vanlore <hi>the younger (deceaſed) onely ſon and heire of the ſaid</hi> Sir Peter <hi>the elder.</hi>
+               </p>
+            </argument>
+            <opener>SHEWETH,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the ſaid Sir Peter Vanlore (the elder) did in his life-time ſettle the Caſtle and Parkes of the Devizes in Wiltſhire (worth 600 <hi>l.</hi> yearly) and the fifth part of divers other his Mannors and Lands (worth 2500 <hi>l.</hi> yearly) upon the ſaid Lady Powel his Daughter, and the Heirs of her body; and for default of ſuch iſſue, the reverſion of the ſaid Caſtle and Parks to his own right Heirs (which your Petitioners the ſaid Counteſs, Dame Suſanna, and Jacoba, are) and entayled the ſaid fifth part of his other Mannors and Lands (for default of iſſue of the ſaid Lady Powel) upon all your petitioners, and divers other his Grand children, by name, and died; and the ſaid Lady Powel about the 6 day of October, 1651. died without iſſue; and your petitioners (the ſaid Counteſs, Dame Suſan, and Jacoba) ought to be thereby initled to the ſaid Caſtle and Parkes of the Devizes, as right Heirs thereunto; and all your petitioners, to their proportionable parts of the ſaid fifth part, according to the ſettlement of the ſaid Sir Peter Vanlore the elder.</p>
+            <p>That becauſe the ſaid Sir Edward Powel could not prevail with his ſaid wife (by whom he had no Iſſue) to diſ-inherit her own Heires, and to ſettle her Eſtate upon the ſaid Sir Edward and his Kindred, He threatned, and many wayes abuſed, and evil intreated her, and left her company, ſo that the differences betwixt them grew implacable, and they lived apart for about fifteen years before her death, keeping each a ſeveral houſe and family.</p>
+            <p>That one Thomas Levingſton having married Anne Caeſar <hi>alias</hi> Adelmare (a Neice of the ſaid Lady Powel) divers unlawfull means and practiſes were attempted by the ſaid Anne Levingſton, and Robert Levingſton (brother or kinſman of the ſaid Thomas Levingſton) and John Preſton, ſervant of the ſaid Thomas, to procure the ſaid Lady Powel to diſpoſe of her Eſtate to the ſaid Anne, with purpoſe to ſhare the ſame amongſt them; as namely, tampering with a Witch, and delivery of the ſaid Lady Powels hair, and paring of her nails, to be made uſe of in unlawfull ways, in order to obtain the ends aforeſaid: And the ſaid Anne Levingſton (having never had any iſſue) counterfeited her ſelf to be with child, and bought a dead child, and ſolemnly lay in therewith, and ſent word to the Lady Powel ſhe was delivered of a child, whereas 'tis known the Lady Powel was ſo diſpleaſed with, and diſaffected to the ſaid Levingſton and his wife, that ſhe was unwilling they ſhould come neer her, and would unwillingly ſpeak before them, ſaying, They came but to betray her.</p>
+            <p>That the ſaid Sir Edward, Tho. Levingſton, and his wife, failing in their ſeveral ſingle attempts upon the ſaid Lady to get her eſtate, they then bethought themſelves to joyn together; and the ſaid Lady Powel about the beginning of September 1651. lying dangerouſly ſick of her laſt ſickneſs (and whereof ſhe ſoon after dyed) at a houſe in Chelſey (purchaſed by the Lady Vanlore her Mother) wherein the ſaid Lady Powel had long lived ſole and ſeparate) the ſaid Sir Edward Powel, Thomas Levingſton, and Anne his wife, and one William Hinſon, <hi>alias</hi> Powel (a Juſtice of peace in Middleſex, Nephew of the ſaid Sir Ed<g ref="char:EOLhyphen"/>ward) knowing of the Lady Powels ſickneſs, and that ſhe had a great reall and perſonal eſtate at her diſpoſe (ſome with, and ſome without the conſent of the ſaid Sir Edward) they, together with the ſaid Ro: Levingſton, John Preſton, Adam Brown, Honour Emet, Anne Barnes, and other their ſervants and confederates, did (according to a complot between them) upon, or about the 7. day of the ſame September, forcibly enter into, and detain the ſaid houſe at Chelſey (wherein the ſaid Lady Powel then lay dying, and whereto the ſaid Sir Edward, and his Confederates, had no right or title) and guarded it with divers deſperate perſons, hired and kept in pay for that purpoſe, and armed with Swords, Granadoes, Guns, and piſtols charged with bullets, and commanded to do execution upon any that ſhould attempt to viſit her without their leave; they cauſed all the ſaid Ladies ſervants to be arreſted by the then Under-Sheriff of Middleſex (whom they brought with them) upon falſe and feigned actions of many thouſand pounds, at the ſuit of the ſaid Sir Edward Powel, which they never proſecuted, but became non-ſuit in, and hurried the ſaid ſervants away, refuſing to take bayl to the pretended Actions (although ſufficient bayl was ten<g ref="char:EOLhyphen"/>dered) they fixed ſtrong Chains, and with them chained up the doors of the ſaid houſe, and in Warlike manner kept it, and kept the neareſt friends and kindred of the ſaid Lady (which came to viſit her in ſickneſs) from her, untill ſhe dyed, denying them acceſs unto her, and telling them that if they would not be gone, they ſhould be removed thence by violence, and that they ſhould never ſee her face more, al<g ref="char:EOLhyphen"/>though the Lady much deſired to ſee them; and Miſtris Levingſton told the ſaid Lady Powel her friends might come unto her (if they would) but they had all forſaken her; they engaged their Confederates in this force to ſecreſie and fidelity, by Rings of gold given to them with this Motto inſcribed, <hi>Never to be forgotten, nor yet requited;</hi> they diſcharged the ſaid Lady Powels Apothecary (employed by Sir The odore Myhern her phyſitian) and brought her a new phyſitian and Apothecary (whom ſhe never ſaw before, and which were no ways acquainted with her many infirmities) and fearing this new phy<g ref="char:EOLhyphen"/>ſitian (being an honeſt man) ſhould diſlike or diſcover their dealings, they engaged him by his promiſe before ever he came thither, to intermeddle with nothing (whatſoever he ſhould ſee or hear) but his phy<g ref="char:EOLhyphen"/>ſick; they placed new and ſtrange ſervants upon her, whom ſhe never ſaw before, againſt her will; one to attend her perſon, and another to be her Chamber maid, and which were no wayes acquainted with her many Diſeaſes; and promiſed and gave the ſaid ſervants (being both of mean, and one of them of infamous relations) extraordinary wages and gifts for this ſervice, and brought them from Mr. Levingſtons own houſe in <hi>London</hi> into the ſaid Lady Powels houſe at Midnight; and fearing leſt the ſaid Lady Powel ſhould find means to make known their inhumane uſage of her from her Chamber window (which open<g ref="char:EOLhyphen"/>ed into a Neighbors ground adjoyning) they made ſhuts to her Chamber window, and forbad that neighbor to permit any of the ſaid Ladies friends to come into that ground, or ſtand neer the houſe; and upon the arreſt and removal of the ſaid Ladies ſervants by the ſaid Under-Sheriff, Mrs. Levingſton in great joy cryed out <hi>the plot bath taken, the plot hath taken.</hi>
+            </p>
+            <p>That having thus by force and practice ſecluded all but themſelves, and an old infirm woman lately deceaſed, (which they then kept lockt up in the houſe, and ever after till her death kept cloſe, for ſome bad purpoſes, as your petitioners ſuſpect) they (upon the 18 day of the ſame September, brought the late Judge Warburton, then one of the Judges of the Common-pleas (who knew not the ſaid Lady Powel) from London, unto the ſaid houſe at Chelſey, then chained up and kept guarded with the ſaid armed men, and then and there procured the ſaid Lady (as the ſaid late Judge certifies) to levy 7 ſeveral Fines of the ſaid Caſtle, parkes, and fifth part of the ſaid Mannors and lands unto one Anthony Baſſet an Apothecary, a Recuſant papiſt of Mrs. Levingſtons acquaintance, but a meet ſtranger to the ſaid Lady Powel; which Fines (as the ſaid Complotters affirm) were declared by ſome Writing (pretended to be about the ſame time ſealed by the ſaid Lady Powel) to the uſe of the ſaid Sir Ed. Powel, Levingſton and his wife; where<g ref="char:EOLhyphen"/>as the ſaid Lady Powel never directed the drawing of the ſaid Writings, nor had them read unto her. And the ſaid Tho. Levingſton did at the ſame time alſo (without any direction of the ſaid Lady Powel) frame another Writing, whereby as he pretends the ſaid Lady Powel gave unto the ſaid Mrs. Levingſton and her Confederates a perſonal eſtate, to the value of forty thouſand pounds, which was your petitio<g ref="char:EOLhyphen"/>ners <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aid Grandfathers, excluding your petitioners from any benefit therein who are of neereſt Kindred to the ſaid Lady Powel; whereas in truth the ſaid Lady in her life-time utterly deteſted the ſaid Le<g ref="char:EOLhyphen"/>vingſton and his wife, as perſons of an evil and dangerous converſation, and oft-times hath been heard to wiſh the ſaid Anne Levingſton were not of her kindred; and it was ſo far from the ſaid Lady Powels purpoſe to diſ-inherit your Petitioners, that even in that her laſt ſickneſs ſhe was heard to expreſs her ſelf with much affection in particular to your Petitioner the Lady Croke, ſaying, She muſt and would do well for her Neice Croke, for ſhe had been ever loving to her, and had many children.</p>
+            <p>That the ſaid Confederates ſuſpecting (as they had cauſe): he ſudden death of the Lady Powel (who died thus impriſoned upon the ſixth day of Octob. following) might render all their fines ineffectual; they (by practiſe with one William Gardiner an Attorney) procured ſeveral Writs of Covenant, and <hi>Dedimus poteſtatem,</hi> for paſſing the ſaid fines, to be made out with Antedates of the firſt and ſecond days of Trinity Term before, and made returnable the ſame Trinity Term: And to deprive your petitioners of all poſſibility of relief by Writ of Error, or otherwiſe; they cauſed the ſame fines to be enrolled of Record, as ac<g ref="char:EOLhyphen"/>knowledged and levied in the ſaid Trinity Term (about four moneths before themſelves pretend they were acknowledged) and contrary to the intent of the Statute made in the three and twentieth year of the Reign of Queen Elizabeth, and ancient practice; which courſe is ſo dangerous (if admitted) as tendeth to the deceiving of all ſuch as ſhall purchaſe any Land, and may tend to the diſinheriſon of many more.</p>
+            <p>That to put a mask of Godlineſs upon their wicked deſigns, they procured one Thorold (a ſequeſtred Divine, of Mr. Levingſtons acquaintance, but a meer ſtranger to the Lady Powel) to come into the houſe, and reſide there with them during theſe tranſactions; forbidding and excluding the Miniſter of the pariſh, his Wife, and Family, to come there, although the Lady Powel much affected the ſaid Miniſter of the pariſh, and his Wife (his ſaid Wife having long lived with the Lady Vanlore her mother;) Nor would they ſuffer the ſaid Miniſter of the pariſh, but cauſed the ſaid Thorold to preach the Ladies fune<g ref="char:EOLhyphen"/>ral Sermon, and in the Pulpit to publiſh her recorcilement to the ſaid Sir Edward before her death, and that ſhe had made Mrs. Levingſton her heir, according to her former purpoſes; whereof he (being a ſtran<g ref="char:EOLhyphen"/>ger) could have no knowledge (if any ſuch purpoſes had been) and they afterwards gratified the ſaid Thorold for ſo doing.</p>
+            <p>That Mr. Levingſton with his own hand wrote a Certificate of Sir Edward Powels kindneſs to his Lady, and got the ſaid Lady (as he pr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tends) to ſubſcribe it with her name, to this effect, That although it might be conceived by ſome ill-affected perſons, that ſhe was under a force and reſtraint, yet in truth ſhe was not, but was kindly uſed by Sir Edward, and that ſhe was well pleaſed with her condition, Where<g ref="char:EOLhyphen"/>as the very next day after the Certificate bears date, the Lady Powel did much complain of this uſage of her, and deploring her condition, cryed out for relief, and ſaid<g ref="char:punc">▪</g> That their plot was to make her diſinherite the right heirs, but that ſhe would be torn in pieces with wild horſes before ſhe would do it; and publikely told Mrs. Levingſton, That it was her doings to have he<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thus uſed, but (that notwithſtanding) ſhe ſhould not be at all the better for her Eſtate; and the ſaid Certificate (being publikely produced by the ſaid Mr. Levingſton, and read in the Court of Common Pleas before the Judges there) did appear to them to be of ſo ſtrange a nature. that they openly told the ſaid Mr. Levingſton, he had over-acted his part therein.</p>
+            <p>That the ſaid Mr. Hynſon <hi>alias</hi> Powel, during all theſe forcible tranſactions, being a Juſtice of Peace for the County of Middleſex, by reputation thereof procured the aſſiſtance of the under Sheriff, and the reſt of his confederates, and that he, and his Uncle Sir Edward Powel were bound by Recognizance, to ſome perſons in truſt for the Lady Powels ſole and private benefit, in the ſum of Eight thouſand pounds with defeazance to be void by payment of Four thouſand pounds, and that Two thouſand pounds, (part thereof) was to have been paid by the ſaid Sir Edward, and Mr. Hynſon (for the Ladies benefit) in that very moneth wherein the ſaid Lady Powel died thus impriſoned: By which it is evident they ſought their own gain and advantage in helping Mr. Levinſton and his Wife to get this Eſtate, who have the power to diſcharge the ſaid debt of Eight thouſand pounds (if the writings thus unduly obtained by them ſhall be upheld.</p>
+            <p>That your petitioners ſo ſoon as they had notice of the ſaid fines ſo taken as aforeſaid, (which was about four days after) did by advice of learned Councel, addreſs themſelves to the ſaid Judge Warburton to ſtop the paſſing of them, which the ſaid Judge would not do, but ſaid, That if he had known ſo much before he had taken the ſaid fines as he had done ſince, he yould not have taken them; and thereupon the firſt day of the next enſuing Term (which was ſo ſoon as poſſibly they could) they complained of the ſaid force and practice to the Court of Common-Pleas, where the Chief Juſtice thereof did openly affirm, That he knew not what was force and fraud, if theſe actions of the confederates were not; and Judge Puliſton, and Judge Atkins (two other of the then Judges) did alſo in open Court ſeveral times vehemently expreſs themſelves againſt the foulneſs of the ſaid practice in obtaining the ſaid fines; but ſaid, that they were ſo far proceeded in, that it was paſt their <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ower to relieve your petitioners, but there was a Parliament then ſitting that might, and they beleeved would relieve them.</p>
+            <p>That your petitioners have addreſſed themſelves to the two late Parliaments for relief, the firſt whereof was ſo far ſenſible of the foulneſs of the crime, that they part<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ularly excepted it out of the Act of Gene<g ref="char:EOLhyphen"/>ral Pardon, but had no leiſure time for the hearing of your petitioners Cauſe, or giving them relief before their diſſolution. And the Committee for petitions of the lat<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Parliament were pleaſed to hear their Caſe at large by Examinations on both parts taken upon Oath, wherein the ſeveral practices before mentioned were made appear unto them; and they gave order for <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thereof to the Parliament by Mr. Rous then Chair-man, and now a Member of this Honorable Court: but before the report was made, the ſaid Parliament did diſſolve, ſo that your petitioners (after a g<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at expence in attendance upon both the ſaid late Parliaments) do ſtill remain without report or relief.</p>
+            <p>That Mr. Levingſton and his Wife (in the Lady Powels life time) deſired one Mr. Vandenbemden, a Grandchild intereſſed in the Lands in queſtion (and a late pe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>itioner againſt theſe fines) to have joyned with them in this practice, and ſhared with them in the gain, but he refuſed ſo to do: And the ſaid Mr. Levingſton and his wife being conſcious to themſelves of their evil doings, and little right unto this Eſtate have (ſince the Lady Powels death) by Articles in writing under their Hands and Seals (ready to be produced) agreed with the ſaid Mr. Vandenbemdon, to reconvey unto him (or to his uſe) his ſhare of the lands in queſtion.</p>
+            <p>Your petitioners therefore (who are the parents of above twenty children, and this Eſtate whereof they are deprived by the ſaid Levingſton and his wife (who have no iſſue) be<g ref="char:EOLhyphen"/>ing the beſt part of your petitioners livelihood to maintain themſelves and their ſaid children,) being by the Court of Common-Pleas declared remedileſs elſewhere then in Parliament, Do humbly beſeech your Honors to vouchſafe them ſome peedy relief, either upon Report of the truth of the perticulars herein alleadged, to be made by the ſaid Mr. Rous or otherwiſe. And that the ſaid fines and all the ſaid Deeds (ſo unduly obtained) may be nulled and vacated, Offenders puniſhed, and like fraud and injuſtice for the future by ſome good meanes prevented, to the diſcouragement of all ſuch as may hereafter attempt a Death-bed diſinheriſon by ſo foul a practice. <note place="margin">Note by old Sir Peters ſettlement of his Eſtate, Miſtris Levingſton (al<g ref="char:EOLhyphen"/>though ſhe hath no child) is to have a fourth of the fifth part of the Lands in queſtion, although the Fines be vacated,</note>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
